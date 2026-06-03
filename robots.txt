@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://writer-salary-calculator.babynakunaku.workers.dev/sitemap.xml
+Sitemap: https://saas-tools.babynakunaku.workers.dev/sitemap.xml
